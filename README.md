@@ -1,2 +1,1 @@
-# LazyColumns
-# LazyColumns
+# LazyColumns in Kotlin
